@@ -1,0 +1,20 @@
+{
+  "name": "jcas",
+  "version": "0.1.0",
+  "description": "Simple Authentication Service (CAS) client for Node.js",
+  "author": {
+    "name": "Bruno Guidou",
+    "email": "bruno.guidou@gmail.com"
+  },
+  "dependencies": {
+    "xml2js": "*"
+  },
+  "main": "index",
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+     "type": "git",
+     "url": "https://github.com/tiksin/jcas.git"
+ }
+}
